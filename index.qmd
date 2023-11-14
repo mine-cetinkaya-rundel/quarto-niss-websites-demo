@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+is a 🐈 lover
+
+## Education
+
+University of California, Los Angeles \| Los Angeles, CA Ph.D. in Statistics \| Sept 2006 - June 2011
+
+New York University \| New York, NY B.S in Actuarial Science \| Sept 2000 - May 2004
+
+## Experience
+
+Duke University \| Professor \| July 2011 - present
+
+Posit, PBC \| Developer Educator \| August 2006 - present
