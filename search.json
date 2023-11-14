@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "is a 🐈 lover"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA Ph.D. in Statistics | Sept 2006 - June 2011\nNew York University | New York, NY B.S in Actuarial Science | Sept 2000 - May 2004"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nDuke University | Professor | July 2011 - present\nPosit, PBC | Developer Educator | August 2006 - present"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "OpenIntro is a project …\nQuarto is another project…"
+  }
+]
